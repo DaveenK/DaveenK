@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently learning Introduction to Computer Programming with Code Kentucky and will choose a learning pathway in October 2023.
-- 🌱 I’m currently learning about pseudocode.
+- 🔭 I’m currently studying Data Analysis with Python through Code Kentucky/Code:You.
+- 🌱 I’m currently learning about lists in Python.
 - 👯 I’m looking to collaborate on TBD.
 - 🤔 I’m looking for help with TBD.
 - 💬 Ask me about my previous studies of human behavior and cognition and language-learning.
