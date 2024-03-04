@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying Data Analysis with Python through Code Kentucky/Code:You.
-- 🌱 I’m currently learning about lists in Python.
+- 🌱 I’m currently learning working on my final project.
 - 👯 I’m looking to collaborate on TBD.
 - 🤔 I’m looking for help with TBD.
 - 💬 Ask me about my previous studies of human behavior and cognition and language-learning.
