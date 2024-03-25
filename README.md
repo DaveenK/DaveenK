@@ -4,4 +4,3 @@
 #### 🤔 I’m looking for help with TBD.
 #### 💬 Ask me about my previous studies of human behavior and cognition and language-learning.
 #### ⚡ Fun fact: I would rather play video games together than watch TV or movies.
-#### 📫 How to reach me: daveen.c.knue@gmail.com
